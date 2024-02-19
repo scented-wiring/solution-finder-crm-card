@@ -1,0 +1,16 @@
+{
+    "type": "crm-card",
+    "data": {
+      "title": "Solution Finder Answers",
+      "uid": "solution_finder_answers",
+      "location": "crm.record.tab",
+      "module": {
+        "file": "results-frontend.jsx"
+      },
+      "objectTypes": [
+        {
+          "name": "contacts" 
+        }
+      ]
+    }
+  }
